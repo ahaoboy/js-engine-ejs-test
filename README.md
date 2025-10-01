@@ -1,6 +1,6 @@
 
 ## test
-9/30/2025, 3:17:33 AM
+10/1/2025, 3:17:36 AM
 
 ### ubuntu
 | Engine | ejs |
@@ -42,6 +42,7 @@
 | ringo |  |
 | lo |  |
 | spiderfire |  |
+| bare |  |
 | hako |  |
 | quickjs-emscripten |  |
 ### macos-arm64
@@ -78,6 +79,7 @@
 | njs |  |
 | ringo |  |
 | spiderfire |  |
+| bare |  |
 | hako |  |
 | quickjs-emscripten |  |
 ### windows
@@ -111,4 +113,5 @@
 | dune |  |
 | rhino |  |
 | spiderfire |  |
+| bare |  |
 | quickjs-emscripten |  |
