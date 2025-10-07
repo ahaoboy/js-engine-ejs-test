@@ -1,6 +1,6 @@
 
 ## test
-10/6/2025, 3:13:19 AM
+10/7/2025, 3:14:01 AM
 
 ### ubuntu
 | Engine | ejs |
@@ -58,7 +58,6 @@
 | quickjs-ng |  |
 | mujs |  |
 | xst |  |
-| JavaScriptCore |  |
 | v8 |  |
 | spidermonkey |  |
 | JerryScript |  |
