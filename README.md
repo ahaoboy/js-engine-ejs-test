@@ -1,6 +1,6 @@
 
 ## test
-10/7/2025, 3:14:01 AM
+10/8/2025, 3:12:17 AM
 
 ### ubuntu
 | Engine | ejs |
@@ -42,6 +42,7 @@
 | ringo |  |
 | lo |  |
 | spiderfire |  |
+| bare |  |
 | hako |  |
 | quickjs-emscripten |  |
 ### macos-arm64
@@ -58,6 +59,7 @@
 | quickjs-ng |  |
 | mujs |  |
 | xst |  |
+| JavaScriptCore |  |
 | v8 |  |
 | spidermonkey |  |
 | JerryScript |  |
@@ -77,6 +79,7 @@
 | njs |  |
 | ringo |  |
 | spiderfire |  |
+| bare |  |
 | hako |  |
 | quickjs-emscripten |  |
 ### windows
@@ -105,7 +108,6 @@
 | boa |  |
 | engine262 |  |
 | goja |  |
-| kiesel |  |
 | jint | Error executing script: URL is not defined |
 | dune |  |
 | rhino |  |
