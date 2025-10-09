@@ -1,6 +1,6 @@
 
 ## test
-10/8/2025, 3:12:17 AM
+10/9/2025, 9:29:03 AM
 
 ### ubuntu
 | Engine | ejs |
@@ -108,6 +108,7 @@
 | boa |  |
 | engine262 |  |
 | goja |  |
+| kiesel |  |
 | jint | Error executing script: URL is not defined |
 | dune |  |
 | rhino |  |
